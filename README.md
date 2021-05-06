@@ -2,7 +2,7 @@
 - I’m interested in game development.
 - I'm mainly focused on Unity.
 - I’m currently learning C#.
-- I'm working with C# %99 of the time.
+- When I code, it's %99 C#.
 
 <!---
 averagecsharpenjoyer/averagecsharpenjoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
